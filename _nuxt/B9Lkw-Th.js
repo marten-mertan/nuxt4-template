@@ -1,0 +1,1 @@
+import{Et as e,F as t,p as n,t as r,u as i}from"./3yehaGSK.js";var a={IndexPage:`_IndexPage_1p7ky_8`},o={};function s(r,a){return t(),n(`div`,{class:e([r.$style.IndexPage,`container`])},[...a[0]||=[i(`h1`,{class:`h1`},` Index Page `,-1),i(`p`,{class:`text`},` Content goes here `,-1)]],2)}var c=r(o,[[`render`,s],[`__cssModules`,{$style:a}]]);export{c as default};
