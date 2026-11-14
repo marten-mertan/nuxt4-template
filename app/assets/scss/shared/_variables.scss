@@ -1,0 +1,38 @@
+/* Colors */
+$bg-primary: #f5f6f8;
+$bg-secondary: #ffffff;
+$bg-tertiary: #eef1f4;
+
+$text-primary: #1f2430;
+$text-secondary: #4b5563;
+$text-muted: #8b93a1;
+
+$accent: #22a06b;
+$accent-hover: #1b8a5c;
+
+$danger: #dc2626;
+$danger-hover: #b91c1c;
+
+$border: #d7dce3;
+
+/* Defaults */
+$font-family: 'Montserrat', sans-serif;
+$font-size: 1.6rem;
+$line-height: 2.1rem;
+$body-color: $text-primary;
+$body-bg: $bg-primary;
+
+/* Grid */
+$container-w: 136rem;
+$header-h: 7.1rem;
+$header-h-m: 6rem;
+$footer-h: 3.2rem;
+$burger-line-h: .3rem;
+$burger-line-w: 2.4rem;
+
+/* Spacing */
+$padding: 2.4rem;
+$padding-m: 1.6rem;
+
+/* Transitions */
+$default-transition: .2s ease;
